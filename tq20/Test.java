@@ -1,4 +1,4 @@
-
+/*
 package tq20;
 
 public class Test {
@@ -12,3 +12,5 @@ public class Test {
         }
     }
 }
+
+ */

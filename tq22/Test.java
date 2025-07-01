@@ -1,3 +1,4 @@
+/*
 package tq22;
 
 public class Test {
@@ -11,3 +12,5 @@ public class Test {
         }
     }
 }
+
+ */
