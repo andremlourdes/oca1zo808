@@ -34,7 +34,7 @@ public class Test {
         //**************************************************************************************************//
 
         /*
-        Como corrigir: para remover o valor 100 (e não o índice), é necessário usar:
+        How to fix: to remove the value 100 (and not the index), you need to use:
         list.remove(Integer.valueOf(100));
         This ensures that the method remove(Object o) is called instead of the version that removes by index.
 
