@@ -16,6 +16,6 @@ public class Test {
          🖨️ Corrected result
          Output is: true
          */
-        System.out.println("Output is: " + 10 != 5);
+        //System.out.println("Output is: " + 10 != 5);
     }
 }
